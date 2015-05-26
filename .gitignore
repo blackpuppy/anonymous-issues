@@ -1,5 +1,8 @@
 # ignore everything
-*
+# *
+
+# ignore selectively
+.vagrant
 
 # but not these files
 cookbooks
